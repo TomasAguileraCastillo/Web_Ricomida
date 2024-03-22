@@ -1,0 +1,70 @@
+@import url("https://fonts.googleapis.com/css2?family=Cabin:ital,wght@0,400..700;1,400..700&display=swap");
+
+@import url("https://fonts.googleapis.com/css2?family=Cabin:ital,wght@0,400..700;1,400..700&family=Lobster&display=swap");
+
+/***fuente Cabin****/
+
+.cabinR {
+  font-family: "Cabin", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  font-variation-settings: "wdth" 100;
+}
+
+.cabinB {
+  font-family: "Cabin", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: bold;
+  font-variation-settings: "wdth" 100;
+}
+
+/****fuente lobster****/
+.lobster {
+  font-family: "Lobster", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.marcahd {
+  height: 46px;
+  width: 137px;
+}
+.menu {
+  height: 19px;
+  width: 61px;
+}
+
+hr {
+  height: auto;
+  width: 100%;
+  background-color: black;
+}
+
+#suscribete {
+  background-color: #dc3545;
+}
+
+h3 {
+  text-decoration: 2px solid underline black;
+  text-underline-position: under;
+  text-underline-offset: 10px;
+}
+
+.imagencarrousel {
+  height: 170px;
+  width: 233px;
+}
+
+.nuevocolor {
+  color: darkgreen;
+}
+
+.colores {
+  color: #373a3c;
+  color: #dddddd;
+  color: #000;
+  color: #ffffff;
+  color: #dc3545;
+}
